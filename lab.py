@@ -12,7 +12,7 @@ def lab():
    </head>
    <body align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo-MT.png"> 
-      <p>Version : 1.0.1</p>
+      <p>Version : 2.0.0</p>
       <p>Hostname : {hostname}</p>
    </body>
 </html>""".format(hostname=os.getenv('HOSTNAME'))
